@@ -1,0 +1,82 @@
+[
+  {
+    "image": "img/image1.jpg",
+    "question": "What will be the more safer option?",
+    "options": ["Ice", "Fire", "Scorpion"],
+    "answer": "Ice"
+  },
+  {
+    "image": "img/image2.png",
+    "question": "Who is the murderer?",
+    "options": [
+      "The boy on the left",
+      "The girl in the middle",
+      "The boy on the right"
+    ],
+    "answer": "The boy on the right"
+  },
+  {
+    "image": "img/image3.jpeg",
+    "question": "Who killed the woman?",
+    "options": ["The caretaker", "The server", "The cook"],
+    "answer": "The caretaker"
+  },
+  {
+    "image": "img/image4.jpg",
+    "question": "Who is not a killer??",
+    "options": ["A", "B", "C"],
+    "answer": "B"
+  },
+  {
+    "image": "img/image5.jpg",
+    "question": "Who is dead?",
+    "options": [
+      "The woman on the left",
+      "The woman in the middle",
+      "The woman on the right"
+    ],
+    "answer": "The woman in the middle"
+  },
+  {
+    "image": "img/image6.png",
+    "question": "Why did only the man die?",
+    "options": [
+      "The poison was in the ice cubes",
+      "The man had a pre-existing condition",
+      "The poison was in the straw"
+    ],
+    "answer": "The poison was in the ice cubes"
+  },
+  {
+    "image": "img/image7.png",
+    "question": "Who did it?",
+    "options": ["The husband", "The cook", "The maid"],
+    "answer": "The maid"
+  },
+  {
+    "image": "img/image8.png",
+    "question": "Who was it?",
+    "options": ["The butler", "The driver", "The cook"],
+    "answer": "The cook"
+  },
+  {
+    "image": "img/image9.png",
+    "question": "How did the murderer escape?",
+    "options": [
+      "They climbed out the window",
+      "They hid in the closet",
+      "They were never inside"
+    ],
+    "answer": "They were never inside"
+  },
+  {
+    "image": "img/image10.png",
+    "question": "How did the killer manage to murder her",
+    "options": [
+      "The killer hid in the trunk",
+      "The killer used a remote device",
+      "The woman was poisoned before getting in the car"
+    ],
+    "answer": "The woman was poisoned before getting in the car"
+  }
+]
